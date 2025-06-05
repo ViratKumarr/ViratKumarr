@@ -1,5 +1,3 @@
-![Virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=viratkumarr&show_icons=true&theme=radical)
-
 <p align="left">
   © Virat Kumar 2025 | Built with ❤️
 </p>
