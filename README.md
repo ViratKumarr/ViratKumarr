@@ -11,9 +11,16 @@
   </a>
 </p>
 
+<!-- Follow Buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/virat-kumar-b0b57024a/" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Follow" />
+  </a>
+  <a href="https://www.instagram.com/___virat_chaudhary___/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow" />
+  </a>
+  <a href="https://www.youtube.com/@viratchronicles" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe" />
   </a>
 </p>
 
