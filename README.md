@@ -1,10 +1,21 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viratkumarr&label=Profile%20views&color=0e75b6&style=flat" alt="viratkumarr" />
+<p align="left">
+  © Virat Kumar 2025 | Built with ❤️
 </p>
 
 <h1 align="center">Hi 👋, I'm Virat 𒉭</h1>
 <h3 align="center">Passionate | Visionary | Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=viratkumarr&label=Profile%20views&color=0e75b6&style=flat" alt="viratkumarr" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=viratkumarr&theme=dracula" alt="viratkumarr" />
+  </a>
+</p>
+
+<!-- Follow Buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/virat-kumar-b0b57024a/" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Follow" />
@@ -19,15 +30,6 @@
 
 ---
 
-### 🔥 GitHub Profile Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viratkumarr&theme=dracula&margin-w=15&margin-h=15" alt="trophies" />
-</p>
-
----
-
-### 💫 About Me
-
 - 🔭 I’m currently working on **Real World Projects**
 - 🌱 I’m currently learning **DSA, Java, SpringBoot, SQL**
 - 💬 Ask me about **Java**
@@ -37,7 +39,6 @@
 ---
 
 ### 🌐 Connect with me:
-
 <p align="left">
   <a href="https://www.linkedin.com/in/virat-kumar-b0b57024a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -64,8 +65,7 @@
 
 ---
 
-### 🧰 Languages and Tools:
-
+### 💻 Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
@@ -84,35 +84,30 @@
 
 ---
 
-### 📊 GitHub Stats:
-
+### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viratkumarr&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viratkumarr&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viratkumarr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viratkumarr&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=viratkumarr&theme=tokyonight" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viratkumarr&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 ---
 
 ### 🧠 Random Dev Quote
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ### 🗓️ GitHub Contributions
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=viratkumarr&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=viratkumarr&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 </a>
-
----
 
 <p align="center">
   © Virat Kumar 2025 | Built with ❤️
