@@ -1,5 +1,6 @@
-
-
+<p align="left">
+  © Virat Kumar 2025 | Built with ❤️
+</p>
 <h1 align="center">Hi 👋, I'm Virat 𒉭</h1>
 <h3 align="center">Passionate | Visionary | Enthusiast</h3>
 
